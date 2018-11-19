@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PICScheduler", "PICScheduler\PICScheduler.csproj", "{AB233B7B-B8E9-48A4-9450-00240D992D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB233B7B-B8E9-48A4-9450-00240D992D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB233B7B-B8E9-48A4-9450-00240D992D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB233B7B-B8E9-48A4-9450-00240D992D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB233B7B-B8E9-48A4-9450-00240D992D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAB6429-D2F9-42A8-B80A-8170C7CAA5F3}
+	EndGlobalSection
+EndGlobal
